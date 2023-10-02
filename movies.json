@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Movie 1",
+    "year": 2020,
+    "genre": "Action",
+    "director": "Director 1",
+    "actors": ["Actor A", "Actor B", "Actor C"],
+    "plot": "Plot summary for Movie 1."
+  },
+  {
+    "title": "Movie 2",
+    "year": 2019,
+    "genre": "Comedy",
+    "director": "Director 2",
+    "actors": ["Actor X", "Actor Y", "Actor Z"],
+    "plot": "Plot summary for Movie 2."
+  },
+  {
+    "title": "Movie 3",
+    "year": 2021,
+    "genre": "Drama",
+    "director": "Director 3",
+    "actors": ["Actor M", "Actor N", "Actor O"],
+    "plot": "Plot summary for Movie 3."
+  }
+]
